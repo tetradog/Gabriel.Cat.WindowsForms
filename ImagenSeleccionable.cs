@@ -6,13 +6,13 @@
  * 
  * Para cambiar esta plantilla use Herramientas | Opciones | Codificación | Editar Encabezados Estándar
  */
-using Gabriel.Cat.Utilitats;
+using Gabriel.Cat.WindowsForms;
 using System;
 using System.ComponentModel;
 using System.Drawing;
 using System.Windows.Forms;
 using Gabriel.Cat.Extension;
-namespace Gabriel.Cat
+namespace Gabriel.Cat.WindowsForms
 {
 	/// <summary>
 	/// Description of ImagenSeleccionable.

@@ -6,7 +6,7 @@
  * 
  * Para cambiar esta plantilla use Herramientas | Opciones | Codificación | Editar Encabezados Estándar
  */
-using Gabriel.Cat.Utilitats;
+using Gabriel.Cat.WindowsForms;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -15,7 +15,7 @@ using System.Drawing;
 using System.Threading;
 using System.Windows.Forms;
 using Gabriel.Cat.Extension;
-namespace Gabriel.Cat
+namespace Gabriel.Cat.WindowsForms
 {
 	/// <summary>
 	/// Description of ColorListBox.

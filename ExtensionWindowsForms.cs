@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Gabriel.Cat.Utilitats.WindowsForms
+namespace Gabriel.Cat.WindowsForms
 {
   public static  class ExtensionWindowsForms
     {

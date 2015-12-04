@@ -10,9 +10,8 @@ using System;
 using System.ComponentModel;
 using System.Drawing;
 using System.Windows.Forms;
-using Gabriel.Cat;
 
-namespace Gabriel.Cat
+namespace Gabriel.Cat.WindowsForms
 {
 	/// <summary>
 	/// Description of ControlUsuari.

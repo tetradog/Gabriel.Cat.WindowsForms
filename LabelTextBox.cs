@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Gabriel.Cat
+namespace Gabriel.Cat.WindowsForms
 {
     public partial class LabelTextBox : UserControl
     {

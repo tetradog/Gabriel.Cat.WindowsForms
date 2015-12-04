@@ -6,7 +6,7 @@
  * 
  * Para cambiar esta plantilla use Herramientas | Opciones | Codificación | Editar Encabezados Estándar
  */
-namespace Gabriel.Cat
+namespace Gabriel.Cat.WindowsForms
 {
 	partial class AnimacionControlesCiclica
 	{

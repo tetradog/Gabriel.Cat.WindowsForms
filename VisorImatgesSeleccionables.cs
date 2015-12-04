@@ -12,7 +12,7 @@ using System.ComponentModel;
 using System.Drawing;
 using System.Windows.Forms;
 using Gabriel.Cat.Extension;
-namespace Gabriel.Cat.Utilitats
+namespace Gabriel.Cat.WindowsForms
 {
 	/// <summary>
 	/// Description of VisorImatgesSeleccionables.

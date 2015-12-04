@@ -15,7 +15,7 @@ using System.Windows.Forms;
 using System.Linq;
 using Gabriel.Cat.Extension;
 
-namespace Gabriel.Cat
+namespace Gabriel.Cat.WindowsForms
 {
 	public delegate void  HagoConElControlEventHandler(Control control);
 	/// <summary>

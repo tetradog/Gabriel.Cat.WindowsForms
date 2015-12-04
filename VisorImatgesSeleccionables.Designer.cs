@@ -6,7 +6,7 @@
  * 
  * Para cambiar esta plantilla use Herramientas | Opciones | Codificación | Editar Encabezados Estándar
  */
-namespace Gabriel.Cat.Utilitats
+namespace Gabriel.Cat.WindowsForms
 {
 	partial class VisorImatgesSeleccionables
 	{

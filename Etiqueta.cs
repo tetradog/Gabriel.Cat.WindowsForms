@@ -11,7 +11,7 @@ using System.ComponentModel;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace Gabriel.Cat
+namespace Gabriel.Cat.WindowsForms
 {
 	/// <summary>
 	/// Description of Etiqueta.
